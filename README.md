@@ -192,9 +192,12 @@ public class AppFibonacci {
 }
 
 # Caso de uso 1
-# Se calcula la serie de Fibonacci para el número 6
+# Se calcula la serie de Fibonacci para el número 6.
 
 ![image](https://user-images.githubusercontent.com/41167366/46510846-320bf600-c800-11e8-85d6-2f0fe5305cda.png)
 
 
+# Se calcula la serie de Fibonacci para el número 20.
 
+
+![image](https://user-images.githubusercontent.com/41167366/46510943-844d1700-c800-11e8-99e2-cf4395e1a25c.png)
