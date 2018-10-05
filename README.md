@@ -28,5 +28,12 @@ que dando asi 0,1,1
 
 5 + 8 = 13
 
-etc,etc,
+etc,etc.
+
+Una propuesta para resolver este algoritmo se muestra en el diagrama de flujo siguiente.
+
+![image](https://user-images.githubusercontent.com/41167366/46510365-63cf8d80-c7fd-11e8-82d2-201c87308245.png)
+
+
+Se codificara en el lenguaje de programación Java
 
