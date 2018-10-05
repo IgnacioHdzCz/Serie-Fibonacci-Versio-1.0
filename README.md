@@ -37,3 +37,7 @@ Una propuesta para resolver este algoritmo se muestra en el diagrama de flujo si
 
 Se codificara en el lenguaje de programación Java
 
+![image](https://user-images.githubusercontent.com/41167366/46510468-0556df00-c7fe-11e8-99a5-e1e4531cd145.png)
+
+La propuesta del programa es la siguiente, para la clase Fibonacci.
+
